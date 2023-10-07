@@ -35,6 +35,8 @@ end
 
 endmodule
 
+// Once the testbench code runs for 70 nanoseconds, the output will be 5, incrementing up by one on each positive clock edge.
+
 //Compile: iverilog -g 2012 -o cpu_tb.vvp cpu_tb.sv
 //Run : vvp cpu_tb.vvp
 //Open : gtkwave
