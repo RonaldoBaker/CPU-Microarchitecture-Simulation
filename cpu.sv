@@ -83,6 +83,7 @@ case(opcode)
 4'b0111 : out = 5'b00111;
     default : out = 5'bx;
 endcase
+            
 // Bit splicing into the correct outputs 
 // Because the case statement will not allow multiple assignments in one line
 assign write_enable = out[4];
