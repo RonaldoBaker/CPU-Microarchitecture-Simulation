@@ -9,6 +9,4 @@ A modular design approach was used, building and testing the individual logic un
 
 The testbench shows that the instruction memory (read from the text file) is correctly executed by the microprocessor. The output will be log2(32) = 5, once the program has been executed. 
 
-![CPU-Microarchitecture-Simulation/cpu-architecure.png](https://github.com/RonaldoBaker/CPU-Microarchitecture-Simulation/blob/main/cpu-architecture.png)
-
-University College London Electronic & Electrical Engineering Department, 2022, CPU Design digital image screenshot
+![CPU-Microarchitecture-Simulation/cpu-architecure.png](https://github.com/RonaldoBaker/CPU-Microarchitecture-Simulation/blob/main/cpu_microarchitecture.jpg)
